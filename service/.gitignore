@@ -1,5 +1,5 @@
 # 忽略 service/dist/ 目录
-service/dist/
+dist
 
 # 忽略 service/node_modules/ 目录
-service/node_modules/
+node_modules
